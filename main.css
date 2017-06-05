@@ -1,0 +1,8 @@
+#div1{
+     width: 210px;height: 210px;background: url("img/Floating-window.gif") no-repeat;position: absolute;
+}/*╪стьм╪ф╛*/
+#pic1{position: absolute}
+.box{
+     border: none;
+     position: absolute;
+}
